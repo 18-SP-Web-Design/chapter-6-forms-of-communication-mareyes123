@@ -1,6 +1,6 @@
 # Web Page Design - Spring 2018
 
-## Lab-6 - Forms
+## Chapter 6 - Forms
 
 **Discussion:** In Chapter 6, you will create your own web-based forms and learn how to make them send data (in a simple way).
 
